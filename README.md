@@ -5,5 +5,5 @@
  
 
 - Guide for compiling.
-- These examples use the following libraries: ofxGui and ofxMaxim
+- These examples use the following libraries: ofxGui and ofxMaxim. They build on the examples provided in class. The videos and audio used are under the creative commons license, sourced from https://archive.org/index.php. 
 - For the fftVideo example, the audio must be downloaded from the Github repository and placed in the data folder, as the .wav file is too large to upload with the project.
